@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <filmovi>
+        <film zanrid="3" naziv="Titanic" opis="Americka epska romansa i film katastrofe iz 1997. godine kojeg je rezirao i napisao James Cameron." sifra="1122"/>
+        <film zanrid="2" naziv="Majstori" opis="Dalibor Matanic, redatelj filmova Fine mrtve djevojke i Kino Lika, stoji iza ove simpaticne romanticne komedije." sifra="2233"/>
+        <film zanrid="4" naziv="Kradljivac uspomena" opis=" Film raden prema istoimenom romanu hrvatskog diplomata i knjizevnika Dine Milinovica." sifra="0011"/>
+        <film zanrid="1" naziv="Veseli most" opis="Scenarist, glavni crtac i redatelj: Boris Kolar. U Balthazargradu stoji stari drveni most koji sluzi gradnima za setnju i zabavu. " sifra="3344"/>
+        <film zanrid="1" naziv="Izgubljeni" opis="Grupa prezivjelih na misterioznom otoku unatoc nesuglasicama mora udruziti snage kako bi prezivjeli" sifra="4455"/>
+        <film zanrid="1" naziv="Opasnost iz dubine" opis="Americki horor film o prezivljavanju 2016. redatelja Jaumea Collet-Serra" sifra="5566"/>
+        <film zanrid="3" naziv="Cesta" opis="Otac i sin pokusavaju prezivjeti u opasnom postapokalipticnom svijetu" sifra="6677"/>
+        <film zanrid="4" naziv="Mrak" opis="Mahnita parodija na apsolutno sve horor, trilere i teen filmove snimljene u posljednjih 10 godina" sifra="7788"/>
+        <film zanrid="4" naziv="Parazit" opis="Cetveroclana obitelj Kim, ljudi su s dna drustvene ljestvice koji zive u vlaznom i trosnom suterenskom stancicu." sifra="8899"/>
+        <film zanrid="2" naziv="Bijeg" opis="Akcija triler kriminalisticki. Bivsi profesionalni vozac upusta se najvazniju utrku svoga zivota." sifra="9911"/>
+    </filmovi>
+</data>

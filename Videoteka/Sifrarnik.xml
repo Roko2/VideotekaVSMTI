@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <sifrarnici>
+        <film sifra="1122">
+            <gledatelj oib="123456"/>
+            <gledatelj oib="917643"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="2233">
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="0011">
+            <gledatelj oib="123456"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="3344">
+            <gledatelj oib="147852"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="4455">
+            <gledatelj oib="681252"/>
+            <gledatelj oib="569731"/>
+            <gledatelj oib="428975"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="5566">
+            <gledatelj oib="654321"/>
+            <gledatelj oib="976349"/>
+            <gledatelj oib="917643"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="6677">
+            <gledatelj oib="123456"/>
+            <gledatelj oib=""/>
+            <gledatelj oib="147357"/>
+            <gledatelj oib="827534"/>
+            <gledatelj oib=""/>
+            <gledatelj oib="468643"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="7788">
+            <gledatelj oib="019284"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="8899">
+            <gledatelj oib="918264"/>
+            <gledatelj oib="827534"/>
+            <gledatelj oib="123456"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
+        <film sifra="9911">
+            <gledatelj oib="123456"/>
+            <gledatelj oib="197382"/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib="468643"/>
+        </film>
+    </sifrarnici>
+</data>

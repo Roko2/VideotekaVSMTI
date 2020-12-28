@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <zanrovi>
+    <zanr id="1" naziv="Komedija"/>
+    <zanr id="2" naziv="Akcijski"/>
+    <zanr id="3" naziv="Ljubavni"/>
+    <zanr id="4" naziv="Triler"/>
+  </zanrovi>
+  
+</dataset>
+  
