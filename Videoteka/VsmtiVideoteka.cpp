@@ -231,14 +231,14 @@ unosFilma:
 	
 	for (size_t i = 0; i < vGledateljiNaFilmu.size(); i++) {
 		if (sifraFilma == vGledateljiNaFilmu[i]->m_oFilm->m_nSifra) {
-			if (vGledateljiNaFilmu[i]->m_oGledatelj == nullptr && stanje==false) {
-				cout <<"GLEDATELJI: Nema niti jednog gledatelja na filmu!" << endl;
-				rbr++;
-			}
-			else if (vGledateljiNaFilmu[i]->m_oGledatelj != nullptr) {
+			if (vGledateljiNaFilmu[i]->m_oGledatelj != nullptr) {
 				stanje = true;
 				GledateljiFilmova oGledatelji(vGledateljiNaFilmu[i]->m_oFilm,vGledateljiNaFilmu[i]->m_oGledatelj);
 				gledatelji.push_back(oGledatelji);
+			}
+			if (vGledateljiNaFilmu[i]->m_oGledatelj == nullptr && stanje==false) {
+				cout <<"Nema niti jednog gledatelja na filmu!" << endl;
+				goto Izlaz;
 			}
 		}
 	}
@@ -254,6 +254,7 @@ unosFilma:
 	if (stanje == true) {
 		cout << table;
 	}
+	Izlaz:
 	Izlaz();
 }
 
