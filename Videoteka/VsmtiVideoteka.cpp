@@ -544,7 +544,7 @@ void VsmtiVideoteka::PovratFilma() {
 					string prazanOib = oGledatelj->Attribute("oib");
 					if (prazanOib == oibGledatelja) {
 						oGledatelj->SetAttribute("oib", "");
-						cout << "Vas gledatelj uspjesno je vracen!" << endl;
+						cout << "Vas film uspjesno je vracen!" << endl;
 						oDoc.SaveFile("Sifrarnik.xml");
 						goto Izlaz;
 					}
