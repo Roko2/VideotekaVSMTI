@@ -651,6 +651,7 @@ unosSifreFilma:
 	oDocs.SaveFile("Sifrarnik.xml");
 	Izlaz();	
 }
+
 void VsmtiVideoteka::DodavanjeGledatelja(string oib) {
 	double f;
 	struct tm newtime;
