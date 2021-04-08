@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dataset>
-  <Osoba>
-    <Gledatelj ime="Ivo" prezime="Ivic" godina="1990" oib="123456"></Gledatelj>
-    <Gledatelj ime="Mirko" prezime="Maric" godina="1999" oib="654321"></Gledatelj>
-    <Gledatelj ime="Josip" prezime="Lukacic" godina="2000" oib="976349"></Gledatelj>
-    <Gledatelj ime="Ivan" prezime="Markovic" godina="1970" oib="918264"></Gledatelj>
-    <Gledatelj ime="Luka" prezime="Horvat" godina="1988" oib="019284"></Gledatelj>
-    <Gledatelj ime="Hrvoje" prezime="Benic" godina="2001" oib="827534"></Gledatelj>
-    <Gledatelj ime="Dorian" prezime="Lipovac" godina="1965" oib="971623"></Gledatelj>
-    <Gledatelj ime="Marko" prezime="Frk" godina="1998" oib="581293"></Gledatelj>
-    <Gledatelj ime="Ivica" prezime="Olic" godina="1989" oib="917643"></Gledatelj>
-    <Gledatelj ime="Mislav" prezime="Bago" godina="1970" oib="681252"></Gledatelj>
-    <Gledatelj ime="Karlo" prezime="Kukic" godina="1978" oib="569731"></Gledatelj>
-    <Gledatelj ime="Dalibor" prezime="Mrkonjic" godina="1999" oib="428975"></Gledatelj>
-    <Gledatelj ime="Denis" prezime="Pajic" godina="1986" oib="468643"></Gledatelj>
-    <Gledatelj ime="Ante" prezime="Anic" godina="1993" oib="147852"></Gledatelj>
-    <Gledatelj ime="Antun" prezime="Zekic" godina="2001" oib="987456"></Gledatelj>
-    <Gledatelj ime="Ivana" prezime="Brkic" godina="2002" oib="973164"></Gledatelj>
-    <Gledatelj ime="Ana" prezime="Spoljaric" godina="2000" oib="197382"></Gledatelj>
-    <Gledatelj ime="Josipa" prezime="Stanisic" godina="1998" oib="649137"></Gledatelj>
-    <Gledatelj ime="Martina" prezime="Kupresak" godina="1995" oib="963753"></Gledatelj>
-    <Gledatelj ime="Laura" prezime="Stipic" godina="2005" oib="147357"></Gledatelj>
-  </Osoba>
+    <Osoba>
+        <Gledatelj ime="Ivo" prezime="Ivic" godina="1990" oib="123456"/>
+        <Gledatelj ime="Mirko" prezime="Maric" godina="1999" oib="654321"/>
+        <Gledatelj ime="Josip" prezime="Lukacic" godina="2000" oib="976349"/>
+        <Gledatelj ime="Ivan" prezime="Markovic" godina="1970" oib="918264"/>
+        <Gledatelj ime="Luka" prezime="Horvat" godina="1988" oib="019284"/>
+        <Gledatelj ime="Hrvoje" prezime="Benic" godina="2001" oib="827534"/>
+        <Gledatelj ime="Dorian" prezime="Lipovac" godina="1965" oib="971623"/>
+        <Gledatelj ime="Marko" prezime="Frk" godina="1998" oib="581293"/>
+        <Gledatelj ime="Ivica" prezime="Olic" godina="1989" oib="917643"/>
+        <Gledatelj ime="Mislav" prezime="Bago" godina="1970" oib="681252"/>
+        <Gledatelj ime="Karlo" prezime="Kukic" godina="1978" oib="569731"/>
+        <Gledatelj ime="Dalibor" prezime="Mrkonjic" godina="1999" oib="428975"/>
+        <Gledatelj ime="Denis" prezime="Pajic" godina="1986" oib="468643"/>
+        <Gledatelj ime="Ante" prezime="Anic" godina="1993" oib="147852"/>
+        <Gledatelj ime="Antun" prezime="Zekic" godina="2001" oib="987456"/>
+        <Gledatelj ime="Ivana" prezime="Brkic" godina="2002" oib="973164"/>
+        <Gledatelj ime="Ana" prezime="Spoljaric" godina="2000" oib="197382"/>
+        <Gledatelj ime="Josipa" prezime="Stanisic" godina="1998" oib="649137"/>
+        <Gledatelj ime="Martina" prezime="Kupresak" godina="1995" oib="963753"/>
+        <Gledatelj ime="Laura" prezime="Stipic" godina="2005" oib="147357"/>
+        <Gledatelj ime="Marko" prezime="Lukacic" godina="1967" oib="982743"/>
+    </Osoba>
 </dataset>
