@@ -668,9 +668,19 @@ void VsmtiVideoteka::DodavanjeGledatelja(string oib) {
 	cout << "Za dodavanje gledatelja upisite Vase ime, prezime, godinuRodjenja i Oib." << endl;
 	cout << "Ime->";
 	cin.ignore(256, '\n');
+unosImena:
 	getline(cin, Ime);
+	if (islower(Ime[0])) {
+		cout << "Ime ne moze pocinjati malim pocetnim slovom!\nUnesite Vase ime ponovno." << endl;
+		goto unosImena;
+	}
 	cout << "Prezime->";
+unosPrezimena:
 	getline(cin, Prezime);
+	if (islower(Prezime[0])) {
+		cout << "Prezime ne moze pocinjati malim pocetnim slovom!\nUnesite Vase prezime ponovno." << endl;
+		goto unosPrezimena; 
+	}
 	unosGodine:
 	cout << "Godina rodjenja->";
 	while (getline(cin, godinaRodjenja))
