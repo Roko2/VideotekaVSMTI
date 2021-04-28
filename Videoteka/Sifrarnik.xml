@@ -121,5 +121,17 @@
             <gledatelj oib=""/>
             <gledatelj oib="468643"/>
         </film>
+        <film sifra="9999">
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+            <gledatelj oib=""/>
+        </film>
     </sifrarnici>
 </data>

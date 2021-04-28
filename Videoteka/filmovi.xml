@@ -11,5 +11,6 @@
         <film zanrid="4" naziv="Mrak" opis="Mahnita parodija na apsolutno sve horor, trilere i teen filmove snimljene u posljednjih 10 godina" sifra="7788"/>
         <film zanrid="4" naziv="Parazit" opis="Cetveroclana obitelj Kim, ljudi su s dna drustvene ljestvice koji zive u vlaznom i trosnom suterenskom stancicu." sifra="8899"/>
         <film zanrid="2" naziv="Bijeg" opis="Akcija triler kriminalisticki. Bivsi profesionalni vozac upusta se najvazniju utrku svoga zivota." sifra="9911"/>
+        <film zanrid="3" naziv="Starac i more" opis="Starac koji je lutao morem ulovivsi morskog psa kojeg su na putu do obale pojele pirane." sifra="9999"/>
     </filmovi>
 </data>
