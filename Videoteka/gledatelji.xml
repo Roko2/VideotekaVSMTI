@@ -22,5 +22,6 @@
         <Gledatelj ime="Martina" prezime="Kupresak" godina="1995" oib="963753"/>
         <Gledatelj ime="Laura" prezime="Stipic" godina="2005" oib="147357"/>
         <Gledatelj ime="Marko" prezime="Lukacic" godina="1967" oib="982743"/>
+        <Gledatelj ime="David" prezime="Driinc" godina="2000" oib="112233"/>
     </Osoba>
 </dataset>
